@@ -1,0 +1,14 @@
+/* Sequoia Sequoia Moonlight Dark for Spicetify */
+:root {
+  --spice-main: #0f1014;
+  --spice-sidebar: #111216;
+  --spice-player: #111216;
+  --spice-card: #111216;
+  --spice-subtext: #575861;
+  --spice-text: #868690;
+  --spice-button: #ffbb88;
+  --spice-button-active: #f58ee0;
+  --spice-tab-active: #ffbb88;
+  --spice-notification: #111216;
+  --spice-notification-error: #f58ee0;
+}

@@ -1,0 +1,14 @@
+/* Sequoia Sequoia Retro Light for Spicetify */
+:root {
+  --spice-main: #edeef2;
+  --spice-sidebar: #e2e3e8;
+  --spice-player: #e2e3e8;
+  --spice-card: #e2e3e8;
+  --spice-subtext: #42434e;
+  --spice-text: #282930;
+  --spice-button: #8a6539;
+  --spice-button-active: #5f7982;
+  --spice-tab-active: #8a6539;
+  --spice-notification: #e2e3e8;
+  --spice-notification-error: #5f7982;
+}

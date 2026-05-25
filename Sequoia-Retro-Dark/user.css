@@ -1,0 +1,14 @@
+/* Sequoia Sequoia Retro Dark for Spicetify */
+:root {
+  --spice-main: #0f1014;
+  --spice-sidebar: #111216;
+  --spice-player: #111216;
+  --spice-card: #111216;
+  --spice-subtext: #575861;
+  --spice-text: #868690;
+  --spice-button: #a27e57;
+  --spice-button-active: #829fa7;
+  --spice-tab-active: #a27e57;
+  --spice-notification: #111216;
+  --spice-notification-error: #829fa7;
+}

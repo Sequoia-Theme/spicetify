@@ -1,0 +1,14 @@
+/* Sequoia Sequoia Moonlight Light for Spicetify */
+:root {
+  --spice-main: #edeef2;
+  --spice-sidebar: #e2e3e8;
+  --spice-player: #e2e3e8;
+  --spice-card: #e2e3e8;
+  --spice-subtext: #42434e;
+  --spice-text: #282930;
+  --spice-button: #d9884a;
+  --spice-button-active: #c94da8;
+  --spice-tab-active: #d9884a;
+  --spice-notification: #e2e3e8;
+  --spice-notification-error: #c94da8;
+}

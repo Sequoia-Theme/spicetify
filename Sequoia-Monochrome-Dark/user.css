@@ -1,0 +1,14 @@
+/* Sequoia Sequoia Monochrome Dark for Spicetify */
+:root {
+  --spice-main: #0f1014;
+  --spice-sidebar: #111216;
+  --spice-player: #111216;
+  --spice-card: #111216;
+  --spice-subtext: #575861;
+  --spice-text: #868690;
+  --spice-button: #b6bac8;
+  --spice-button-active: #999eb2;
+  --spice-tab-active: #b6bac8;
+  --spice-notification: #111216;
+  --spice-notification-error: #999eb2;
+}
