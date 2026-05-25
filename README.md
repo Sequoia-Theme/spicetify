@@ -17,9 +17,15 @@ See other interfaces at the [official website](https://www.michaelandreuzza.com/
 
 ## Installation
 
+### Spicetify Marketplace
+
+Published for the [Spicetify Marketplace](https://github.com/spicetify/marketplace). Open Marketplace in Spotify and search **Sequoia**.
+
+### Manual installation
+
 Copy a theme folder into Spicetify's Themes directory and apply with `spicetify config current_theme`.
 
-Available files: `Sequoia-Moonlight-Dark/color.ini`, `Sequoia-Moonlight-Dark/user.css`, `Sequoia-Moonlight-Light/color.ini`, `Sequoia-Moonlight-Light/user.css`, `Sequoia-Monochrome-Dark/color.ini`, `Sequoia-Monochrome-Dark/user.css`, `Sequoia-Monochrome-Light/color.ini`, `Sequoia-Monochrome-Light/user.css`, `Sequoia-Retro-Dark/color.ini`, `Sequoia-Retro-Dark/user.css`, `Sequoia-Retro-Light/color.ini`, `Sequoia-Retro-Light/user.css`.
+Available files: `Sequoia-Moonlight-Dark/color.ini`, `Sequoia-Moonlight-Dark/user.css`, `Sequoia-Moonlight-Light/color.ini`, `Sequoia-Moonlight-Light/user.css`, `Sequoia-Monochrome-Dark/color.ini`, `Sequoia-Monochrome-Dark/user.css`, `Sequoia-Monochrome-Light/color.ini`, `Sequoia-Monochrome-Light/user.css`, `Sequoia-Retro-Dark/color.ini`, `Sequoia-Retro-Dark/user.css`, `Sequoia-Retro-Light/color.ini`, `Sequoia-Retro-Light/user.css`, `manifest.json`, `preview.png`.
 
 ## Created by
 

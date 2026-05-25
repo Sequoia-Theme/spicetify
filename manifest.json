@@ -1,0 +1,116 @@
+[
+  {
+    "name": "Sequoia-Moonlight-Dark",
+    "description": "Sequoia for Spicetify \u2014 Sequoia Moonlight Dark (dark mode).",
+    "preview": "preview.png",
+    "readme": "README.md",
+    "usercss": "Sequoia-Moonlight-Dark/user.css",
+    "schemes": "Sequoia-Moonlight-Dark/color.ini",
+    "authors": [
+      {
+        "name": "Micheal Andreuzza",
+        "url": "https://github.com/michael-andreuzza"
+      }
+    ],
+    "tags": [
+      "dark",
+      "sequoia",
+      "minimal"
+    ]
+  },
+  {
+    "name": "Sequoia-Moonlight-Light",
+    "description": "Sequoia for Spicetify \u2014 Sequoia Moonlight Light (light mode).",
+    "preview": "preview.png",
+    "readme": "README.md",
+    "usercss": "Sequoia-Moonlight-Light/user.css",
+    "schemes": "Sequoia-Moonlight-Light/color.ini",
+    "authors": [
+      {
+        "name": "Micheal Andreuzza",
+        "url": "https://github.com/michael-andreuzza"
+      }
+    ],
+    "tags": [
+      "light",
+      "sequoia",
+      "minimal"
+    ]
+  },
+  {
+    "name": "Sequoia-Monochrome-Dark",
+    "description": "Sequoia for Spicetify \u2014 Sequoia Monochrome Dark (dark mode).",
+    "preview": "preview.png",
+    "readme": "README.md",
+    "usercss": "Sequoia-Monochrome-Dark/user.css",
+    "schemes": "Sequoia-Monochrome-Dark/color.ini",
+    "authors": [
+      {
+        "name": "Micheal Andreuzza",
+        "url": "https://github.com/michael-andreuzza"
+      }
+    ],
+    "tags": [
+      "dark",
+      "sequoia",
+      "minimal"
+    ]
+  },
+  {
+    "name": "Sequoia-Monochrome-Light",
+    "description": "Sequoia for Spicetify \u2014 Sequoia Monochrome Light (light mode).",
+    "preview": "preview.png",
+    "readme": "README.md",
+    "usercss": "Sequoia-Monochrome-Light/user.css",
+    "schemes": "Sequoia-Monochrome-Light/color.ini",
+    "authors": [
+      {
+        "name": "Micheal Andreuzza",
+        "url": "https://github.com/michael-andreuzza"
+      }
+    ],
+    "tags": [
+      "light",
+      "sequoia",
+      "minimal"
+    ]
+  },
+  {
+    "name": "Sequoia-Retro-Dark",
+    "description": "Sequoia for Spicetify \u2014 Sequoia Retro Dark (dark mode).",
+    "preview": "preview.png",
+    "readme": "README.md",
+    "usercss": "Sequoia-Retro-Dark/user.css",
+    "schemes": "Sequoia-Retro-Dark/color.ini",
+    "authors": [
+      {
+        "name": "Micheal Andreuzza",
+        "url": "https://github.com/michael-andreuzza"
+      }
+    ],
+    "tags": [
+      "dark",
+      "sequoia",
+      "minimal"
+    ]
+  },
+  {
+    "name": "Sequoia-Retro-Light",
+    "description": "Sequoia for Spicetify \u2014 Sequoia Retro Light (light mode).",
+    "preview": "preview.png",
+    "readme": "README.md",
+    "usercss": "Sequoia-Retro-Light/user.css",
+    "schemes": "Sequoia-Retro-Light/color.ini",
+    "authors": [
+      {
+        "name": "Micheal Andreuzza",
+        "url": "https://github.com/michael-andreuzza"
+      }
+    ],
+    "tags": [
+      "light",
+      "sequoia",
+      "minimal"
+    ]
+  }
+]
