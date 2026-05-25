@@ -29,4 +29,4 @@ Available files: `Sequoia-Moonlight-Dark/color.ini`, `Sequoia-Moonlight-Dark/use
 
 ## Created by
 
-[Micheal Andreuzza](https://github.com/michael-andreuzza)
+By [Micheal Andreuzza](https://michaelandreuzza.com/) at [Lexington Themes](https://lexingtonthemes.com/)
